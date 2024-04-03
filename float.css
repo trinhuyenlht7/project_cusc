@@ -1,0 +1,89 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    height: fit-content;
+    background-color: blueviolet;
+}
+
+.danh_sach_option{
+
+}
+
+.logo{
+    width: 15%;
+
+}
+
+.div_logo{
+    margin-left: 20px;
+}
+
+.option{
+    float: left;
+    margin-left: 30px;
+    list-style: none;
+    color: blue;
+
+}
+
+.hinh{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+
+.box_1{
+    border-radius: 30px;
+    width: 300px;
+    height: 500px;
+    margin-right: 10px;
+    background-image: url(./audio/hinh/thuvypic.PNG);
+
+}
+
+.con{
+    position: absolute;
+}
+
+.box_2{
+    height: 500px;
+    width: 300px;
+    /* float: left; */
+    margin-right: 10px;
+    background-image: url(./audio/hinh/thuvypic2.PNG);
+}
+
+.box_3{
+    height: 500px;
+    width: 300px;
+    /* float: left; */
+    background-image: url(./audio/hinh/thuvypic3.PNG);
+}
+
+
+
+.menu{
+    background-color: brown;
+    width: 100%;
+    text-align: center;
+}
+
+.noiDung{
+    width: 100%;
+
+}
+
+.sitebar{
+    float: inline-start;
+    background-color: aquamarine;
+    width: 20%;
+    height: 500px;
+}
+
+.content{
+    background-color: black;
+    float: inline-end;
+    width:80%;
+    height: 500px;
+}

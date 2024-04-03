@@ -1,0 +1,81 @@
+body{
+    background-image: url(./audio/hinh/tải\ xuống.jpg);
+}
+
+.logo{
+    width: 100%;
+}
+
+.box_1 {
+    border: black solid 10px;
+    margin: 100px;
+    padding: 60px;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(174, 87, 87);
+    color: #fff;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.titleBox_1{
+    border: #fff solid 1px;
+    padding-top: 70px;
+    margin: 50px;
+}
+
+.inFor{
+    margin: 10px 40px 10px 40px;
+}
+
+.hotline{
+    background-color: yellow;
+    color: black;
+    width: fit-content;
+    height: fit-content;
+    position: fixed;
+    bottom: 20px;
+}
+
+.div_cha{
+    box-shadow: inset 6;
+    margin-top: 30px;
+    border: black 2px solid;
+    width: 200px;
+    position: relative;
+}
+
+.div_con{
+    top: 20px;
+    width: fit-content;
+    text-align: center;
+    position: absolute;
+    right: 20px;
+    background-color: #fff;
+}
+
+.content{
+    color: #FFFFFF;
+    background: #232323;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+}
+
+/* .div_con .content{
+    margin-top: 15px;
+    vertical-align: middle;
+    text-align: center;
+} */
+
+.hinh_ribbon{
+    position: absolute;
+    width: 20%;
+    top: 0px;
+    right: 0px;
+}
+
+.hinh{
+    width: 100%;
+}
+
