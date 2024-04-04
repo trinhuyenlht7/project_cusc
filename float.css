@@ -1,3 +1,7 @@
+.background{
+    background-image: url(./audio/hinh/tải\ xuống.jpg);
+}
+
 a{  
     color: aliceblue;
     text-decoration: none;
@@ -7,12 +11,9 @@ a{
     display: flex;
     justify-content: space-around;
     height: fit-content;
-    background-color: black;
+    background-color: rgb(67, 15, 15);
 }
 
-.danh_sach_option{
-
-}
 
 .logo{
     width: 15%;
@@ -87,7 +88,7 @@ a{
 }
 
 .content{
-    background-color: black;
+    background-color: pink;
     float: inline-end;
     width:80%;
     height: 500px;
