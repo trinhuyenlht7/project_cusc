@@ -14,3 +14,4 @@ var ho = prompt('nhập họ của bạn vào ạ')
 var ten = prompt('nhập tên của bạn vào ạ')
 document.write('họ tên thí sinh là :'+ho+' '+ten+' ')
 
+
